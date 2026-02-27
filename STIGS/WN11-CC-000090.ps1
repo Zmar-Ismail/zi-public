@@ -7,7 +7,7 @@
 .NOTES
     Author          : Zmar Ismail
     LinkedIn        : linkedin.com/in/zmarismail/
-    GitHub          : github.com/zmar-i
+    GitHub          : github.com/Zmar-Ismail
     Date Created    : 2026-02-12
     Last Modified   : 2026-02-12
     Version         : 1.0
